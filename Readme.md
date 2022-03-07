@@ -1,16 +1,18 @@
+Source code is temporarily unavailable.
+
 ## Usage
 
 if your project has flavors declared below :
 ```
 productFlavors {
   apple {
-    dimension fruit
+    dimension 'fruit'
   }
   orange {
-    dimension fruit
+    dimension 'fruit'
   }
   banana {
-    dimension fruit
+    dimension 'fruit'
   }
 }
 ```
